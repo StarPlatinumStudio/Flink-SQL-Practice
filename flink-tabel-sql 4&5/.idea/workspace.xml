@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac5805c2-5a55-4e89-986c-7ac24ce8c063" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/robinwang/UdafJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/robinwang/UdtfJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/robinwang/udfs/KyeWordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/robinwang/udfs/MaxStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flink-tabel-sql 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../flink-tabel-sql 1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka_result.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/robinwang/UdfJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/robinwang/UdsfJob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/robinwang/UdfJob.class" beforeDir="false" />
-    </list>
+    <list default="true" id="ac5805c2-5a55-4e89-986c-7ac24ce8c063" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -269,7 +259,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578554219440" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578554408075" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../flink-tabel-sql 1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -380,12 +370,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578387058238</updated>
-      <workItem from="1578387061405" duration="29659000" />
+      <workItem from="1578387061405" duration="29820000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29659000" />
+    <option name="totallyTimeSpent" value="29820000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
