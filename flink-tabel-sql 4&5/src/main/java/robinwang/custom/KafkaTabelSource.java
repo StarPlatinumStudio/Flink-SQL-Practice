@@ -8,6 +8,7 @@ import org.apache.flink.streaming.connectors.kafka.FlinkKafkaConsumer011;
 import org.apache.flink.table.api.DataTypes;
 import org.apache.flink.table.api.TableSchema;
 import org.apache.flink.table.sources.StreamTableSource;
+import org.apache.flink.table.factories.TableSourceFactory;
 import org.apache.flink.table.types.DataType;
 
 import java.util.Properties;

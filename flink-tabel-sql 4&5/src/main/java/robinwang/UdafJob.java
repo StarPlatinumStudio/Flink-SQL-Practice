@@ -6,7 +6,6 @@ import org.apache.flink.table.api.Table;
 import org.apache.flink.table.api.java.StreamTableEnvironment;
 import org.apache.flink.types.Row;
 import robinwang.custom.KafkaTabelSource;
-import robinwang.udfs.KyeWordCount;
 import robinwang.udfs.MaxStatus;
 
 /**
